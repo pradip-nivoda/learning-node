@@ -1,0 +1,22 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradip-nivoda/learning-node.git"
+  },
+  "author": "Pradip Kundu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradip-nivoda/learning-node/issues"
+  },
+  "homepage": "https://github.com/pradip-nivoda/learning-node#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.6"
+  }
+}
